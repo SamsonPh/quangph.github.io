@@ -7,3 +7,5 @@ venue: "ICDAR Workshop"
 date: 06-04-2021
 location: "Virtual event"
 ---
+
+<br/><img src="/images/honors/EmoRecCom_award.jpeg">
