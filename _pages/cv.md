@@ -11,7 +11,11 @@ redirect_from:
 
 Summary
 ======
-I have been working in machine learning for almost 3 years, 2 years in natural language processing for the Vietnamese language. I have the ability to solve problems in natural language processing from low level to high level using traditional machine learning or deep learning techniques. In addition, I also have experience working on computer vision and signal processing projects. I can also join in organizing and teaching for the classes about machine learning, natural language processing for the beginner.
+I have nearly 7 years of experience in the AI field, including 5 years specializing in natural language processing (NLP) for the Vietnamese language. I am adept at solving NLP problems at both low and high levels, utilizing traditional machine learning techniques as well as deep learning approaches. I have developed and deployed numerous ultra-compact models suitable for edge integration, as well as large-scale models requiring interaction with extensive, distributed infrastructures, such as large language models.
+
+Additionally, I have experience working on projects involving computer vision and signal processing. My cross-disciplinary project background enables me to apply knowledge across various domains, particularly in multi-modal applications.
+
+I am also capable of organizing and teaching beginner-level classes on machine learning and natural language processing.
 
 
 Education
@@ -19,14 +23,16 @@ Education
 * B.S. in Information System, Hanoi University of Science and Technology (HUST)
 
   Major: Artificial Intelligence, Data science, Natural language processing
-<!-- * M.S. in Data Science and AI, Hanoi University of Science and Technology, 2014 -->
 
 Work experience
 ======
 *  May 2021 - Present: [Vingroup Big Data Institute](https://vinbigdata.org/)
-    * NLP Engineer
+    * Natural Language Processing Specialist
+    * Lead of the Language Representation Team
     * Main responsibilities:
       * Working on Vietnamese virtual assistant project for VinFast cars
+      * Development of the VinBase chatbot platform
+      * Building large language models and large multi-modal model
 
 * Sep 2018 - Jun 2021: [Sun Asterisk Inc.](https://sun-asterisk.ai/)
   * AI Research Engineer
@@ -52,9 +58,13 @@ Skills
 * Version control: Git
 * Operating systems: Windows, Linux
 * Background: Natural language processing, Machine learning, Deep learning, Data mining, Recommendation system
+* ***LLM skills:*** Pretraining from scratch, Continous training, Adating, SFT, Deployment,...
 
 Projects
 ======
++ Vietnamese large language model - ViGPT, VBD-Buffalo, LLaMA3-Frog,...
++ Large multi-modal model - VLM, VVLM (V-LLaVA, V-LLASM,...)
++ Multi-modal retrieval (image - textual), Visual-docs retrieval
 + Vietnamese word segmentation, Part-of-speech tagging, Named entity recognition, Dependency parsing.
 + Text classification: Sentiment analysis, Hate speech detection, Fake news detection, Identification of Informative tweets.
 + Sequence Tagging: Toxic spans detection
